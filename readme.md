@@ -12,3 +12,7 @@ conda install --file requirements.txt
 ```sh
 python3 checkin_main.py
 ```
+
+## Download weights file
+https://drive.google.com/file/d/1Ws9qJkynDHvubgtj5X_zvOx6q8N_Pequ/view?usp=sharing
+Save under folder 'model'
